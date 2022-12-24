@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "817780727952",
+    "project_id": "mber-f23c8",
+    "storage_bucket": "mber-f23c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817780727952:android:9f7be91566f5b254ef3815",
+        "android_client_info": {
+          "package_name": "com.harmonics.mber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817780727952-vdl2c0n28en4hajn8lrvqjh0pd7c74du.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harmonics.mber",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "817780727952-sp5dr5j2a7to883c98kgq70b6dr7uc76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwjcdleb2qb3onDH4EAk3l1QF0DXOb7RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817780727952-sp5dr5j2a7to883c98kgq70b6dr7uc76.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "817780727952-14g7didoor81vurk415150br3caiaug4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.harmonics.mber"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
